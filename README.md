@@ -34,8 +34,8 @@ Broken rotor bars are "hidden" internal faults. Our system acts as a **Digital D
 ---
 
 ## 📂 Dataset Info
-Due to GitHub's 100MB file limit, the **7GB IEEE Dataset** (.mat files) is hosted on Google Drive. 
-👉 **[](https://drive.google.com/file/d/1Z1vIDGscYepWEBAvQt27sWS7GF_rFUhA/view?usp=drive_link)]**
+Due to GitHub's 100MB file limit, the 7GB IEEE Dataset (.mat files) is hosted on Google Drive:
+👉 **[Download Dataset Here]([PASTE_YOUR_LINK_HERE](https://drive.google.com/file/d/1Z1vIDGscYepWEBAvQt27sWS7GF_rFUhA/view?usp=sharing))**
 
 ---
 
